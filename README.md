@@ -52,16 +52,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Static Badge](https://img.shields.io/badge/visualstudio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 
 
